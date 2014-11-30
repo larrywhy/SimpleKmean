@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleKmean", "SimpleKmean\SimpleKmean.csproj", "{338A1185-9E9C-4511-B3B5-143A26AC8FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338A1185-9E9C-4511-B3B5-143A26AC8FC2}.Debug|x86.ActiveCfg = Debug|x86
+		{338A1185-9E9C-4511-B3B5-143A26AC8FC2}.Debug|x86.Build.0 = Debug|x86
+		{338A1185-9E9C-4511-B3B5-143A26AC8FC2}.Release|x86.ActiveCfg = Release|x86
+		{338A1185-9E9C-4511-B3B5-143A26AC8FC2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

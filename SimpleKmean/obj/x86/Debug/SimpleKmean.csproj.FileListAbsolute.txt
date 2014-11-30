@@ -1,0 +1,7 @@
+c:\users\lab301b-why\documents\visual studio 2010\Projects\SimpleKmean\SimpleKmean\bin\Debug\SimpleKmean.exe
+c:\users\lab301b-why\documents\visual studio 2010\Projects\SimpleKmean\SimpleKmean\bin\Debug\SimpleKmean.pdb
+c:\users\lab301b-why\documents\visual studio 2010\Projects\SimpleKmean\SimpleKmean\obj\x86\Debug\SimpleKmean.exe
+c:\users\lab301b-why\documents\visual studio 2010\Projects\SimpleKmean\SimpleKmean\obj\x86\Debug\SimpleKmean.pdb
+C:\Users\lab301b-why\Documents\Visual Studio 2010\Projects\SimpleKmean\SimpleKmean\obj\x86\Debug\SimpleKmean.csprojResolveAssemblyReference.cache
+C:\Users\why\Dropbox\SimpleKmean\SimpleKmean\SimpleKmean\obj\x86\Debug\SimpleKmean.exe
+C:\Users\why\Dropbox\SimpleKmean\SimpleKmean\SimpleKmean\obj\x86\Debug\SimpleKmean.pdb
